@@ -1,0 +1,26 @@
+PODS:
+  - Alamofire (5.8.1)
+  - GTProgressBar (0.3.3)
+  - SDWebImage (5.18.11):
+    - SDWebImage/Core (= 5.18.11)
+  - SDWebImage/Core (5.18.11)
+
+DEPENDENCIES:
+  - Alamofire
+  - GTProgressBar
+  - SDWebImage
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - GTProgressBar
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  Alamofire: 3ca42e259043ee0dc5c0cdd76c4bc568b8e42af7
+  GTProgressBar: a480283ecb0ada50de16c71e634892826928f640
+  SDWebImage: a3ba0b8faac7228c3c8eadd1a55c9c9fe5e16457
+
+PODFILE CHECKSUM: a52d39113a2254a20cc5e4838ef868001294a9da
+
+COCOAPODS: 1.12.1
